@@ -47,8 +47,8 @@ request_data.db: Stores blood request records
 bash
 Copy
 Edit
-git clone https://github.com/Shanub11/Blood-Management-System.git
-cd Blood-Management-System
+git clone https://github.com/Shanub11/Blood-Bank-Management-System.git
+cd Blood-Bank-Management-System
 2. Create a Virtual Environment (optional but recommended)
 bash
 Copy
